@@ -112,5 +112,123 @@ nav a {
     margin: 130px;
     border-radius: 10px;
     background: #FFF8F3
-    
+}
+
+.about-container {
+    display: flex;
+    justify-content: space-around;
+    font-family: Open Sans;
+    font-size: 20px;
+}
+
+.section-dis-1 {
+    padding: 30px 345px 150px;
+    color: #757575;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.what-i-do {
+    margin: 0 200px;
+}
+
+.skills-container {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.skill {
+    padding: 30px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+
+.skill-diss {
+    width: 201px;
+
+}
+
+/* Resume selection style */
+.resume-colum-title {
+    color: #474747;
+    font-family: Open Sans;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+/* study section  */
+.resume-head {
+    margin: 130px 572px 113px 573px;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.study {
+    margin: 0px 277px 0px 230px;
+    display: flex;
+    justify-content: center;
+}
+
+.main-education {
+    margin-left: 100px;
+}
+
+.e-head {
+    color: #474747;
+    font-family: Open Sans;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.edu-dis {
+    width: 500px;
+    font-family: Open Sans;
+    font-size: 20px;
+}
+
+.cv-download {
+    margin: 40px 717px 121px 751px;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+/* foter style */
+.end {
+    height: 780px;
+    background: #FFF8F3;
+    justify-content: center;
+    display: flex;
+}
+
+.contact-foter {
+    margin: 130px 452px 20px 230px;
+    font-family: Open Sans;
+    font-size: 35px;
+}
+.footer-dis{
+    margin: 0px 147px 526px 230px;
+    width: 562px;
+    color:#474747;
+font-family: Open Sans;
+font-size: 16px;
+}
+.sub-div{
+    margin-bottom: 225px;
+}
+.form-head{
+    color:#181818;
+font-family: Open Sans;
+font-size: 35px;
+font-style: normal;
+font-weight: 700;
 }
